@@ -1,0 +1,19 @@
+#details{
+    width: 47em;
+    height: 3.5em;
+    margin-top: 2em;
+    border: 2.5px solid #e3e3e3;
+}
+
+.search {
+    margin-left: 23%;
+}
+
+#filter-btn {
+    height: 4.5em;
+    width: 8em;
+    background-color: #1f8ae0;
+    color: white;
+    font-size: 13px;
+    border: 2.5px solid #e3e3e3;
+}

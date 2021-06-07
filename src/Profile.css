@@ -1,0 +1,36 @@
+.profile-form {
+    margin: 60px;
+    margin-top: 15px;
+    text-align: left;;
+    background-color: white;
+    width: 35%;
+    padding-left: 15%;
+    padding-bottom: 5%;
+    margin-left: 23%;
+    border-radius: 25px;
+    border: 1px solid #a1a1a1;
+}
+
+.profile-label {
+    display: block;
+    margin: 10px 0px;
+    font-weight: bold; 
+}
+
+.profile-input{
+    width: 45%;
+    padding: 15px;
+}
+
+.profile-btn {
+    display: block;
+    margin-top: 10px;
+    margin-left: 8%;
+    background-color: #1f8ae0;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}

@@ -1,0 +1,38 @@
+#jobly-link {
+    float: left;
+}
+
+.links {
+    display: block;
+    padding: 8px;
+    background-color: white;
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 15px;
+    float: right;
+}
+
+
+.nav {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    border-bottom: 2.5px solid #e3e3e3;
+}
+  
+.links:link {
+    text-decoration: none;
+}
+
+.links:active {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: navy;
+}

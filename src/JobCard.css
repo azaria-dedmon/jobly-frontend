@@ -1,0 +1,25 @@
+.job-details {
+    background-color: white;
+    border: 2.5px solid #e3e3e3;
+    width: 45em;
+    height: 8em;
+    text-align: left;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    margin: 2% 0% 2% 23%;
+}
+
+.job-description {
+    font-size: 12px;
+}
+
+.apply-btn {
+    height: 2em;
+    width: 8em;
+    background-color: red;
+    color: white;
+    font-size: 13px;
+    float: right;
+    border: 2.5px solid #e3e3e3;
+    margin-top: -2%;
+}

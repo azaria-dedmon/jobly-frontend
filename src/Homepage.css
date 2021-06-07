@@ -1,0 +1,19 @@
+.homepage-text {
+    text-align: center;
+    margin-top: 20%;
+}
+
+.homepage-links {
+    background-color: #1f8ae0;
+    color: white;
+    padding: 2px 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20x;
+    margin: 2px 15px;
+    cursor: pointer;
+}
+
+.homepage-links:link {
+    text-decoration: none;
+} 
